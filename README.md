@@ -1,8 +1,12 @@
 tetrisJS
 ======
-**Version 1.0 Copyright © 2016 - 2017, Francisco Pereira Alvarado**
+**Version Apha 1.0 Copyright © 2016 - 2017, Francisco Pereira Alvarado**
 
 Es un tetris hecho en JavaScript.
+
+* No usa librerias externas. 
+* Usa una cover de tetris del canal [Tsuko G](https://www.youtube.com/channel/UCeONfStw8OrYUwD5Fd9gX7Q)
+
 
 ======
 ## License
