@@ -1,6 +1,6 @@
 tetrisJS
 ======
-**Version 1.0 Copyright © 2016 - 2017, Francisco Pereira Alvarado
+**Version 1.0 Copyright © 2016 - 2017, Francisco Pereira Alvarado**
 
 Es un tetris hecho en JavaScript.
 
