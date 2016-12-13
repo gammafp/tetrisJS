@@ -1,0 +1,23 @@
+body {
+    background-color: #220d84;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    color: white;
+}
+canvas {
+    outline: 1px solid black;
+}
+
+div#puntuacion {
+    font-size: 1.2em;
+    color: white;
+}
+
+div#contenedor {
+    /*LLENAME DE TU CSS*/
+}

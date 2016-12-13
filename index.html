@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tetris</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <h1>Tetris GAMMA</h1>
+    <div id="contenedor">
+        <canvas id="lienzo"></canvas>
+        <div id="puntuacion">
+            Tu puntuación es: <span>0</span>
+        </div>
+        <audio src="./recursos/audio/tetris.mp3" hidden autoplay loop>
+            <p>Tu navegador no implementa el elemento audio</p>
+        </audio>
+
+    </div>
+
+    <script src="./scripts/piezas.js"></script>
+    <script src="./scripts/mando.js"></script>
+    <script src="./scripts/pintado.js"></script>
+    <script src="./scripts/main.js"></script>
+</body>
+</html>
