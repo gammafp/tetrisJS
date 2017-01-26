@@ -7,6 +7,12 @@ Es un tetris hecho en JavaScript.
 * No usa librerias externas. 
 * Usa una cover de tetris del canal [Tsuko G](https://www.youtube.com/channel/UCeONfStw8OrYUwD5Fd9gX7Q)
 
+**Tecnologias usadas:** JavaScript, HTML y CSS.
+El juego corre gracias a canvas y un motor creado de cero por mi en JavaScript.
+
+Para ejecutar el juego solo basta iniciar el index.html y cargará en el navegador.
+Se recomienda usar los ultimos navegadores disponibles.
+
 
 ======
 ## License
