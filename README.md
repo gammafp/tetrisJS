@@ -12,6 +12,8 @@ El juego corre gracias a canvas y un motor creado de cero por mi en JavaScript.
 
 Para ejecutar el juego solo basta iniciar el **index.html** y cargará en el navegador.
 
+[DEMO](https://gammafp.github.io/tetrisJS/)
+
 **Se recomienda usar los ultimos navegadores disponibles.**
 
 
