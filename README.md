@@ -10,9 +10,13 @@ Es un tetris hecho en JavaScript.
 **Tecnologias usadas:** JavaScript, HTML y CSS.
 El juego corre gracias a canvas y un motor creado de cero por mi en JavaScript.
 
+---
+
+### Ejecución
+
 Para ejecutar el juego solo basta iniciar el **index.html** y cargará en el navegador.
 
-[DEMO](https://gammafp.github.io/tetrisJS/)
+O tambien puedes clica en esta palabra: **[DEMO](https://gammafp.github.io/tetrisJS/)**
 
 **Se recomienda usar los ultimos navegadores disponibles.**
 
